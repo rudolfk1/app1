@@ -27,10 +27,11 @@
     "use-cannon": "^0.5.3"
   },
   "devDependencies": {
-    "@types/node": "^20.4.2",
+    "@types/node": "^20.4.5",
     "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.6",
     "@types/three": "^0.154.0",
+    "@types/ws": "^8.5.5",
     "@typescript-eslint/eslint-plugin": "^5.61.0",
     "@typescript-eslint/parser": "^5.61.0",
     "@vitejs/plugin-react": "^4.0.1",
