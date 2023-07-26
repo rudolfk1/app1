@@ -1,7 +1,5 @@
 import CanvasContainer from "./components/CanvasContainer";
-
-
-
+import Chat from "./components/Chat";
 
 function App() {
   
