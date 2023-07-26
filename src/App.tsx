@@ -1,9 +1,6 @@
 import CanvasContainer from "./components/CanvasContainer";
 import Chat from "./components/Chat";
 
-
-
-
 function App() {
   
 
@@ -16,4 +13,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
