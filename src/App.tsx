@@ -1,4 +1,5 @@
 import CanvasContainer from "./components/CanvasContainer";
+import Chat from "./components/Chat";
 
 
 
@@ -8,9 +9,7 @@ function App() {
 
   return (
     <div className="App h-screen relative bg-orange-300">
-      <div className="text-xl font-bold  ml-3 ">
-        ЭТОТ ЛОЛЬНЫЙ ТЕКСТ НАХОДИТСЯ ВНУТРИ DIV
-      </div>
+      <Chat />
       <CanvasContainer />
     </div>
     
