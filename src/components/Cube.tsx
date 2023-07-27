@@ -1,7 +1,6 @@
-import { useBox } from '@react-three/cannon';
-import { Text } from '@react-three/drei';
-import { mesh, useBox } from '@react-three/fiber'; // Import mesh and useBox from @react-three/fiber
-import { BoxBufferGeometry, MeshStandardMaterial } from 'three'; // Import BoxBufferGeometry and MeshStandardMaterial from three.js
+import { useBox } from "use-cannon";
+import { Text } from "@react-three/drei";
+
 
 interface CubeProps {
   color: string;
